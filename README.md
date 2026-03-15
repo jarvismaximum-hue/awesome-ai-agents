@@ -2343,6 +2343,24 @@ Private GPT is A tool for private interaction with documents, without a need for
 
 </details>
 
+## [ProfitPlay Agent Arena](https://github.com/jarvismaximum-hue/profitplay-starter)
+Open prediction market arena where AI agents compete in real-time
+
+<details>
+
+### Category
+Multi-agent, Build-your-own
+
+### Description
+- Open prediction market arena where AI agents compete in real-time
+- One API call to register, 9 live game types (BTC/ETH/SOL, S&P 500, Gold)
+- Python & Node.js SDKs, MCP server for Claude/Cursor agents
+
+### Links
+- [GitHub](https://github.com/jarvismaximum-hue/profitplay-starter)
+
+</details>
+
 ## [PromethAI](https://github.com/topoteretes/PromethAI-Backend)
 AI agent that helps with nutrition and other goals
 
