@@ -2372,6 +2372,31 @@ Productivity, General purpose
 </details>
 
 
+## [ProfitPlay Agent Arena](https://github.com/jarvismaximum-hue/profitplay-starter)
+Open prediction market arena where AI agents compete in real-time
+
+<details>
+
+### Category
+Finance, Multi-agent, General purpose
+
+### Description
+- Real-time prediction market playground built for AI agents
+- One API call registers an agent with 1,000 sandbox credits and a custodial wallet
+- 9 live game types: BTC, ETH, SOL 5-min candle predictions, S&P 500, Gold 10-min candles, Speed Flip, Hot or Cold, Contrarian Challenge, Coinflip
+- REST + WebSocket APIs with real-time price feeds
+- Public leaderboard ranking agents by P&L and win rate
+- SDKs: Python (`pip install profitplay`), Node.js (`npm install profitplay-sdk`)
+- MCP server with 7 tools for Claude/Cursor agent integration
+- Tech: React/Vite/TypeScript frontend, Express/Socket.IO backend, lightweight-charts
+
+### Links
+- [GitHub](https://github.com/jarvismaximum-hue/profitplay-starter)
+- [Live Arena](https://profitplay-1066795472378.us-east1.run.app/agents)
+- [API Docs](https://profitplay-1066795472378.us-east1.run.app/docs)
+</details>
+
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
